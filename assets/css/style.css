@@ -42,9 +42,12 @@ a { color:blue; text-decoration: none;}
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
-.design{
-}
-#ano1951, ano1957 {
+#ano1951, #ano1957 {
     display: inline-block;
+
+}
+.tamanho-img {
+    width: 150px;
+    height: 170px;
 
 }
