@@ -48,6 +48,11 @@ a { color:blue; text-decoration: none;}
 
 }
 img {
-    width: 200px ;
-    margin: 30px;
+    width: 400px ;
+    margin: 30px auto;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: antiquewhite;
+
+
 }
