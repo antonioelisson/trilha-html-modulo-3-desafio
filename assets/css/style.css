@@ -49,10 +49,13 @@ a { color:blue; text-decoration: none;}
 }
 img {
     width: 400px ;
-    margin: 30px auto;
+    margin: 0px auto;
     border: 1px solid black;
     padding: 5px;
     background-color: antiquewhite;
 
 
+}
+figure, figcaption {
+    text-align: center;
 }
